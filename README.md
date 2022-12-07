@@ -5,7 +5,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/messiasgabriel/pokedex/main/images/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/Calculadora/main/Screenshot.png)
 
 ### Built With
 
