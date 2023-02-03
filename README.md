@@ -3,6 +3,10 @@
 
 <!-- OVERVIEW -->
 
+<div align="center">
+   Calculadora feita com Javascript na videoaula do @GustavoNeitzke
+</div>
+
 ## Overview
 
 ![screenshot](https://raw.githubusercontent.com/messiasgabriel/Calculadora/main/Screenshot.png)
